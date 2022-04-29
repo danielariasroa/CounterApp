@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en primera app debe de mostrar primera app correctamente  1`] = `
+<Fragment>
+  <h1>
+     
+    Hola, soy daniel
+     
+  </h1>
+  <h2>
+    Soy un subtitulo
+  </h2>
+  <p>
+     a la vivora vovora de la mar, por aqui pueden pasar
+  </p>
+</Fragment>
+`;
